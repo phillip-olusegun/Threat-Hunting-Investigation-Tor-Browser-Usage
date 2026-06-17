@@ -1,6 +1,6 @@
-# AY-Cyber Project
 
-<img width="1280" height="774" alt="image" src="https://github.com/user-attachments/assets/eb8de679-64e4-4982-b058-1912210b6c7a" />
+
+<img width="380" height="174" alt="image" src="https://github.com/user-attachments/assets/eb8de679-64e4-4982-b058-1912210b6c7a" />
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/phillip-olusegun/Threat-Hunting-Investigation-Tor-Browser-Usage/blob/main/threat-hunting-scenario-tor-event-creation.md)
